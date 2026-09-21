@@ -1,4 +1,4 @@
-# 🛒 Business Intelligence Dashboard - Redes de Supermercados (MossoróRN)
+# 🛒 Business Intelligence Dashboard - Redes de Supermercados
 
 Este projeto consiste no desenvolvimento de uma solução de Business Intelligence (BI) ponta a ponta para a análise estratégica de faturamento, lucratividade e volume de movimentação de mercadorias. A arquitetura simula a infraestrutura de dados de uma rede de supermercados operando em três filiais estratégicas no município de MossoróRN Nova Betânia, Alto de São Manoel e Centro.
 
