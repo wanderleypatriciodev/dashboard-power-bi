@@ -49,19 +49,19 @@ O layout foi concebido sob a técnica de leitura em Z, priorizando KPIs estraté
 
 ### 1. Visão Geral Consolidada
 Exibição do ecossistema de dados completo computando o histórico total das 10.000 operações geradas pelo pipeline.
-![Visão Geral](.imagesdashboard001.png)
+![Visão Geral](./images/dashboard001.png)
 
 ### 2. Comportamento do Filtro Categoria Mercearia
 Demonstração da reatividade da malha de gráficos ao isolar a cadeia de suprimentos da Mercearia.
-![Filtro Mercearia](.imagesdashboard002.png)
+![Filtro Mercearia](./images/dashboard002.png)
 
 ### 3. Comportamento do Filtro Categoria Hortifruti
 Análise focada na força regional do Hortifruti (como a produção e venda de Melão Tipo Exportação).
-![Filtro Hortifruti](.imagesdashboard003.png)
+![Filtro Hortifruti](./images/dashboard003.png)
 
 ### 4. Comportamento do Filtro Categoria Limpeza
 Isolamento do fluxo de caixa e volumetria transacionada nos setores de produtos de limpeza das lojas.
-![Filtro Limpeza](.imagesdashboard004.png)
+![Filtro Limpeza](./images/dashboard004.png)
 
 ---
 
